@@ -6,6 +6,7 @@ _Topic model for reviewing climate-related mobilities in East Africa_
 
 by **Lisa Thalheimer**
 Environmental Change Institute, University of Oxford
+
 and **Simon J. Abele**
 School of Geography and the Environment, University of Oxford
 
